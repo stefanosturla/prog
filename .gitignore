@@ -1,0 +1,3 @@
+!*.exe
+*.*
+!_to_delete.c
